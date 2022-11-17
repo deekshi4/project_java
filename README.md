@@ -8,7 +8,9 @@ import java.util.concurrent.TimeUnit;
 
 public class wpm {
 	
-	static String[] words = {"car","night","walk","music","things","sleep","food","fun"};
+	static String[] words = {"accident", "development", "exaggerate","knowlageble","fascinate", "necessary","impossible",
+		"determinate","civilization","demonstrat", "envirornment","rehabiliate","utalization","describe","ingredient","guarantee",
+		"hideous","lethargic","homogeneous","phenomenon","comprehend","application"};
 	
     public static void main(String[] args) throws InterruptedException{
     	
@@ -22,8 +24,8 @@ public class wpm {
 	TimeUnit.SECONDS.sleep(1);
 	
 	Random rand = new Random();
-	for(int i=0; i<8; i++) {
-		System.out.print(words[rand.nextInt(7)] +" ");
+	for(int i=0; i<15; i++) {
+		System.out.print(words[rand.nextInt(14)] +" ");
 		}
 	System.out.println();
 	
