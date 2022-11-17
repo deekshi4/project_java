@@ -1,3 +1,5 @@
+<img width="959" alt="Screenshot 1" src="https://user-images.githubusercontent.com/118383947/202334610-fb1ba3a2-8f47-4e8f-8391-12a5639a91df.png">
+<img width="957" alt="Screenshot 2" src="https://user-images.githubusercontent.com/118383947/202334630-4d412509-6def-4f3a-a2c9-3649034d2020.png">
 
 # project_java
 import java.time.LocalTime;
