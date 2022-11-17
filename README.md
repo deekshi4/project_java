@@ -1,5 +1,4 @@
-<img width="960" alt="Screenshot 2022-11-17 070856" src="https://user-images.githubusercontent.com/118383947/202333126-02a6d8ea-3dde-4ac2-8ac1-80096d1cd040.png">
-<img width="960" alt="Screenshot 2022-11-17 070926" src="https://user-images.githubusercontent.com/118383947/202333153-ea6b8f61-ded2-40c8-9c26-809d997d93f3.png">
+
 # project_java
 import java.time.LocalTime;
 import java.util.Random;
